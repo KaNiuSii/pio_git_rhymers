@@ -5,7 +5,7 @@ public class defaultCountingOutRhymer {
     public static final int NEGATIVE_RESPONSE = -1;
     public static final int ARRAY_SIZE = 12;
     public static final int LAST_ARRAY_INDEX = 11;
-    private int[] NUMBERS = new int[ARRAY_SIZE];
+    private final int[] NUMBERS = new int[ARRAY_SIZE];
 
     public int total = NEGATIVE_RESPONSE;
 
