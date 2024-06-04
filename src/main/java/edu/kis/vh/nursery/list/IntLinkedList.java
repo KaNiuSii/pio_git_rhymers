@@ -7,6 +7,7 @@ public class IntLinkedList {
 
     private static final int ERROR_VALUE = -1;
     Node last;
+    // TODO: refactor i value
     int i;
 
     /**
