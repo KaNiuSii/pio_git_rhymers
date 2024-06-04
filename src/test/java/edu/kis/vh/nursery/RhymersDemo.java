@@ -35,3 +35,5 @@ class RhymersDemo {
     }
     
 }
+
+// testy przeszły pomyślnie
